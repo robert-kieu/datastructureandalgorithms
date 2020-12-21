@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\84918\Desktop\Đại Học\hk1 năm 2\Data_Structure\MT_Bo_Tui\MT_Bo_Tui\Source.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\84918\Desktop\Đại Học\hk1 năm 2\Data_Structure\MT_Bo_Tui\MT_Bo_Tui\Source.cpp(82): warning C4715: 'Queue::front': not all control paths return a value
+C:\Users\84918\Desktop\Đại Học\hk1 năm 2\Data_Structure\MT_Bo_Tui\MT_Bo_Tui\Source.cpp(84): warning C4715: 'Queue::rear': not all control paths return a value
+C:\Users\84918\Desktop\Đại Học\hk1 năm 2\Data_Structure\MT_Bo_Tui\MT_Bo_Tui\Source.cpp(41): warning C4715: 'Stack::top': not all control paths return a value
+  MT_Bo_Tui.vcxproj -> C:\Users\84918\Desktop\Đại Học\hk1 năm 2\Data_Structure\MT_Bo_Tui\Debug\MT_Bo_Tui.exe
